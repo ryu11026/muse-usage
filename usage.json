@@ -1,9 +1,9 @@
 {
   "plan": "free",
-  "weekly_used_percent": 100,
-  "weekly_reset_iso": "2026-11-21T09:21:00+09:00",
-  "weekly_reset_label": "11月21日（土）09:21",
-  "additional_used_percent": 17,
-  "additional_left_label": "825M",
-  "updated_at": "2026-11-21T07:27:18+09:00"
+  "weekly_used_percent": 4,
+  "weekly_reset_iso": "2026-11-28T09:21:00+09:00",
+  "weekly_reset_label": "11月28日（土）09:21",
+  "additional_used_percent": 18,
+  "additional_left_label": "824M",
+  "updated_at": "2026-11-21T15:28:51+09:00"
 }
